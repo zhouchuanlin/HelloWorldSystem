@@ -1,2 +1,0 @@
-ooioioioioiojollllll
-llkok
