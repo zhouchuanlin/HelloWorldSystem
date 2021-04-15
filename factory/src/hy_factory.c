@@ -1,5 +1,5 @@
 #include"hy_factory.h"
-
+#iinini
 FACTORY_IN_T *FACTORY_IN = NULL;
 
 static char* trim(char *str)
