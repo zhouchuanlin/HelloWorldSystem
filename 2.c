@@ -12,3 +12,6 @@ ioioipppppp;l
 ioioipppppp;l   zhouchuanlin
 >>>>>>> xiaoliu
 ppplplpl
+<<<<<<< Updated upstream
+zhouchuanlintest1
+huhuhuhuhuhuhuhhu
